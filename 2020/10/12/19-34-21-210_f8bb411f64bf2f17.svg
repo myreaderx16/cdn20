@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132.101" height="132.0965" viewBox="0 0 132.101 132.0965">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0047d0;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #272525;
+      }
+
+      .cls-1, .cls-11, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-11, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #d00021;
+        stroke-width: 0.25px;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 1.9843 0.9921;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 1.9769 0.9884;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 1.9861 0.9931;
+      }
+
+      .cls-12, .cls-7 {
+        font-size: 12px;
+        fill: #fff;
+      }
+
+      .cls-7 {
+        font-family: TimesNewRomanPS-ItalicMT, Times New Roman;
+      }
+
+      .cls-8 {
+        font-style: italic;
+      }
+
+      .cls-10, .cls-12, .cls-9 {
+        font-family: TimesNewRomanPSMT, Times New Roman;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.464em;
+      }
+
+      .cls-11 {
+        stroke: #fff;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <title>max-2-packing</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <circle class="cls-1" cx="39.1094" cy="39.1071" r="37.5887"/>
+    <circle class="cls-1" cx="93.0101" cy="93.0078" r="37.5887"/>
+    <polygon class="cls-2" points="131.599 131.596 1.102 131.596 0.502 0.5 130.999 0.5 131.599 131.596"/>
+    <g>
+      <line class="cls-3" x1="1.1023" y1="131.5965" x2="1.8061" y2="130.8861"/>
+      <line class="cls-4" x1="2.5044" y1="130.1814" x2="129.9457" y2="1.5627"/>
+      <line class="cls-3" x1="130.2949" y1="1.2104" x2="130.9987" y2="0.5"/>
+    </g>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <g>
+      <polyline class="cls-3" points="131.594 130.596 131.599 131.596 130.599 131.596"/>
+      <line class="cls-5" x1="129.6103" y1="131.5965" x2="2.5965" y2="131.5965"/>
+      <polyline class="cls-3" points="2.102 131.596 1.102 131.596 1.098 130.596"/>
+      <line class="cls-6" x1="1.0932" y1="129.6034" x2="0.5091" y2="1.9965"/>
+      <polyline class="cls-3" points="0.507 1.5 0.502 0.5 1.502 0.5"/>
+      <line class="cls-5" x1="2.4907" y1="0.5" x2="129.5045" y2="0.5"/>
+      <polyline class="cls-3" points="129.999 0.5 130.999 0.5 131.003 1.5"/>
+      <line class="cls-6" x1="131.0079" y1="2.493" x2="131.5919" y2="130.0999"/>
+    </g>
+    <text class="cls-7" transform="translate(10.4924 40.1956)"><tspan class="cls-8">r</tspan><tspan class="cls-8" x="4.6699" y="1" xml:space="preserve"> = </tspan><tspan class="cls-9" x="18.7676" y="9">2 + </tspan><tspan class="cls-9" x="37.5352" y="10">√</tspan><tspan class="cls-10" x="44.1211" y="2">–</tspan><tspan class="cls-9" x="44.5532" y="9">2</tspan></text>
+    <line class="cls-11" x1="30.159" y1="37.0291" x2="61.3257" y2="37.0291"/>
+    <text class="cls-12" transform="translate(41.8257 34.3622)">1</text>
+    <text class="cls-7" transform="translate(64.2424 93.9456)"><tspan class="cls-8">r</tspan><tspan class="cls-8" x="4.6699" y="1" xml:space="preserve"> = </tspan><tspan class="cls-9" x="18.7676" y="9">2 + </tspan><tspan class="cls-9" x="37.5352" y="10">√</tspan><tspan class="cls-10" x="44.1211" y="2">–</tspan><tspan class="cls-9" x="44.5532" y="9">2</tspan></text>
+    <line class="cls-11" x1="83.909" y1="90.7791" x2="115.0757" y2="90.7791"/>
+    <text class="cls-12" transform="translate(95.5757 88.1123)">1</text>
+  </g>
+</svg>
